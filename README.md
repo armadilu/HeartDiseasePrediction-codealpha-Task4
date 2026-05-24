@@ -6,7 +6,7 @@ A machine learning project that predicts whether a patient is at risk of heart d
 
 ## 🔗 Live Demo
 
-👉 **Try it here:** [Heart Disease Risk Predictor on Hugging Face Spaces](https://huggingface.co/spaces/emm-xin19/CodeAlpha-HeartDiseasePrediction_AaminaKhan)
+👉 **Try it here:** [Heart Disease Risk Predictor on Hugging Face Spaces](https://huggingface.co/spaces/emm-xin19/HeartDiseasePrediction_AaminaKhan)
 
 The deployed app lets users enter standard patient health indicators (age, blood pressure, cholesterol, chest pain type, etc.) through a clean Gradio interface and instantly see the predicted heart disease risk along with the probability percentage.
 
